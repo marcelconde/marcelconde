@@ -1,6 +1,6 @@
 ## Olá, eu sou o Marcel Conde 
 
-- 🔭 Hoje eu trabalho com HelpDesk na Fibrasa
+
 - 🌱 Estudante de Engenharia da computação e Desenvolvimento Web
 - 😄 Pronouns: Ele/dele
  <div>
